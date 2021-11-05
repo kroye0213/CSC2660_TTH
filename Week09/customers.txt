@@ -1,0 +1,19 @@
+
+Current Date: 2021-03-11
+Customer ID: 122321
+First Name: Kolby
+Last Name: Roye
+Email: 1213213@gmail.com
+Balence: 123332
+Current Date: 2021-03-10
+Customer ID: 1231232
+First Name: Kolby
+Last Name: Roye
+Email: 112322@gmail.com
+Balence: 2030203
+Current Date: 2021-03-11
+Customer ID: Cust123213213
+First Name: Kolby
+Last Name: Roye
+Email: 12345@gmail.com
+Balence: 2030230.203203

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <RadioButton fx:id="rdbtnComputer" layoutX="293.0" layoutY="324.0" mnemonicParsing="false" text="Computer" />
+      <Button fx:id="btnPurple" layoutX="73.0" layoutY="242.0" mnemonicParsing="false" text="Color Purple" />
+      <Button fx:id="btnYellow" layoutX="73.0" layoutY="279.0" mnemonicParsing="false" text="Color Yellow" />
+      <Button fx:id="btnClose" layoutX="73.0" layoutY="320.0" mnemonicParsing="false" text="Close" />
+      <Label fx:id="lblTitle" layoutX="82.0" layoutY="206.0" text="Wonderful to style the APP, it looks nice!" />
+      <CheckBox fx:id="chkFont" layoutX="292.0" layoutY="246.0" mnemonicParsing="false" text="Font to 20" />
+      <CheckBox fx:id="chkItalics" layoutX="292.0" layoutY="283.0" mnemonicParsing="false" text="Italic Letters" />
+   </children>
+</AnchorPane>
